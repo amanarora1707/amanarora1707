@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman
-- 👀 I’m interested in web development, Data Structures and Algorithms
+- 👀 I’m interested in Web Development, Data Structures and Algorithms
 - 🌱 I’m currently learning everything :)
 - 📫 How to reach me amanarora1707@gmail.com
 
